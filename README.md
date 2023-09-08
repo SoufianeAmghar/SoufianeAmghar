@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SoufianeAmghar
-- 👀 I’m interested in software developping, software security, AI and Network security.
+- 👀 I’m interested in software development, DevOps and software security.
 - 🌱 I’m currently learning DevOps tools and problem solving methods.
-- 💞️ I’m looking forward on an end of year internship.
 - 📫 How to reach me via linkedin here: https://www.linkedin.com/in/soufiane-amghar/
 
 <!---
