@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @SoufianeAmghar
-- 👀 I’m interested in software development, DevOps and software security.
-- 🌱 I’m currently learning DevOps tools and problem solving methods.
-- 📫 How to reach me via linkedin here: https://www.linkedin.com/in/soufiane-amghar/
+# Hi there! 👋 I'm Soufiane Amghar  
+
+💻 I’m a **Software Developer & DevOps Engineer** passionate about **software security** and **problem-solving**.  
+🚀 Currently exploring **DevOps tools** and best practices.  
+
+📫 **Let's connect on LinkedIn:** [Soufiane Amghar](https://www.linkedin.com/in/soufiane-amghar/)  
 
 <!---
 SoufianeAmghar/SoufianeAmghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
